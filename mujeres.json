@@ -1,0 +1,66 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Louis",
+          "last": "Li"
+        },
+        "location": {
+          "street": {
+            "number": 3296,
+            "name": "Hoon Hay Road"
+          },
+          "city": "Tauranga",
+          "state": "Nelson",
+          "country": "New Zealand",
+          "postcode": 56617,
+          "coordinates": {
+            "latitude": "47.2838",
+            "longitude": "-146.0186"
+          },
+          "timezone": {
+            "offset": "-9:00",
+            "description": "Alaska"
+          }
+        },
+        "email": "louis.li@example.com",
+        "login": {
+          "uuid": "a7156c78-6ea1-4b9d-a9c3-c627b279c513",
+          "username": "smallduck779",
+          "password": "massive",
+          "salt": "A3PgQLYP",
+          "md5": "652727a21027b347f811222c3f9e7528",
+          "sha1": "e279ce09c106a6eb4a9feadf57cea7d71b529297",
+          "sha256": "3e661c29c3659112c174fdacf433644796f86aac38d011b707e3ba8ee90174f5"
+        },
+        "dob": {
+          "date": "1967-06-28T20:31:31.236Z",
+          "age": 55
+        },
+        "registered": {
+          "date": "2005-05-10T00:04:16.967Z",
+          "age": 17
+        },
+        "phone": "(714)-673-0296",
+        "cell": "(095)-267-7846",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/46.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+        },
+        "nat": "NZ"
+      }
+    ],
+    "info": {
+      "seed": "73f72cd72e038c4c",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
